@@ -18,9 +18,9 @@ There is a command line util you can also use,
 ```bash
 bigPouch new "slide content"
 
-bigPouch get #
+bigPouch get 4 #slide number
 
-bigPouch update #
+bigPouch update 4 #slide number
 
 bigPouch len
 ```
