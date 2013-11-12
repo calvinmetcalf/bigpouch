@@ -12,3 +12,16 @@ It's [big](https://github.com/tmcw/big) but with pouchdb, you need to use erica 
 and then incriment the ids
 
 after you update the slides you need to run `replicate()` in the console.
+
+There is a command line util you can also use, 
+
+```bash
+bigPouch new "slide content"
+
+bigPouch get #
+
+bigPouch update #
+
+bigPouch len
+```
+

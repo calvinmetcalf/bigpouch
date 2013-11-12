@@ -1,0 +1,19 @@
+{
+  "name": "bigPouch",
+  "version": "0.0.0",
+  "description": "Big Pouch",
+  "main": "bigpouch.js",
+  "dependencies": {
+    "pouchdb": "~0.0.14"
+  },
+  "devDependencies": {},
+  "bin":"./bin/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/calvinmetcalf/bigpouch.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/calvinmetcalf/bigpouch/issues"
+  }
+}
